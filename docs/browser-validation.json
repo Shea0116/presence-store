@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "checks": [
+    "8 products and all local images loaded",
+    "category, search and empty results",
+    "sorting and saved collection",
+    "variant selection and quantity changes",
+    "bag persistence after reload",
+    "free shipping threshold and totals",
+    "demo checkout and bag clearing",
+    "mobile navigation and item removal",
+    "360/390/768/1440 px: no horizontal overflow",
+    "GBP display conversion",
+    "corrupt storage recovery",
+    "storage disabled feedback"
+  ],
+  "browser": "Chrome headless",
+  "pageErrors": [],
+  "date": "2026-10-30"
+}
